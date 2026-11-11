@@ -257,10 +257,12 @@ hse-incident-weekly-analysis/
 
 **Team 1, AI Automation & Agentic AI Track, Digital Egypt Pioneers Initiative (DEPI)**
 
-| Name | Role | GitHub |
-|---|---|---|
-| _Your name_ | _e.g. Workflow engineer_ | [@your-username](https://github.com/your-username) |
-| _Teammate_ | _..._ | [@username](https://github.com/username) |
+- Abdullah Ibrahim
+- Abdullah Awad
+- Omar Ayman
+- Ali Ashour
+- Amin Reda
+- Menatullah Ibrahim
 
 ---
 
