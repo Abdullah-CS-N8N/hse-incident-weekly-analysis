@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1d3a"/><stop offset="1" stop-color="#14606b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#g)"/>
+  <circle cx="1080" cy="40" r="170" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="60" y="90" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" fill="#7be0d0" font-weight="bold">AI AUTOMATION  |  n8n  |  HSE</text>
+  <text x="60" y="160" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">HSE Incident Weekly Analysis</text>
+  <text x="60" y="205" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cfe3ee">Outlook  →  Gemini AI agent  →  HTML report in Gmail, every Monday 08:00</text>
+  <text x="60" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7be0d0">Digital Egypt Pioneers Initiative (DEPI)  ·  Team 1</text>
+</svg>
